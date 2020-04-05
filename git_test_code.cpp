@@ -16,7 +16,7 @@ long long cur_memo[arr_size];
 int main() {
 	while (1) {
 		cin >> input;
-		if (input == "EOI" || input == "eoi") {
+		if (input == "EOI") {
 			exit(1);
 		}
 		else {
