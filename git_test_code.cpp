@@ -1,7 +1,7 @@
 #include <iostream>
 #include <algorithm>
 #include <cstdlib>
-#include <string>
+#include <cstring>
 using namespace std;
 #define arr_size 750010
 
